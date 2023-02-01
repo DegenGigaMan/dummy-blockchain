@@ -1,5 +1,5 @@
 {
-  "name": "savjeecoin",
+  "name": "dummy-blockchain",
   "version": "1.0.1",
   "description": "Simple Blockchain implementation in Javascript. For educational purposes only.",
   "keywords": [
