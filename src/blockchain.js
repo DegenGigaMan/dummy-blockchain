@@ -1,6 +1,6 @@
 // if a new block breaks the chain we need a mechanism to roll back the changes to a correct state
 //this is lacking many features such as:
-//  proof of work,
+//  proof of work (completed!),
 //  peer-to-peer network to communicate with other miners,
 //  checking if user has enough funds to make a transaction
 
