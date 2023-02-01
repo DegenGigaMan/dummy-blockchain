@@ -1,4 +1,13 @@
 {
+  "name": "savjeecoin",
+  "version": "1.0.1",
+  "description": "Simple Blockchain implementation in Javascript. For educational purposes only.",
+  "keywords": [
+    "blockchain",
+    "transactions",
+    "education"
+  ],
+  "main": "src/blockchain.js",
   "dependencies": {
     "crypto-js": "^4.1.1",
     "elliptic": "^6.5.4"
